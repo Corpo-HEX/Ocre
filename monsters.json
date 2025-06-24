@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Souris Grise",
+        "name": "Sousouris Grise",
         "zones": [
             "Cryptes du cimeti\u00e8re"
         ],
@@ -273,7 +273,7 @@
     },
     {
         "id": 27,
-        "name": "Gel\u00e9e Bleue",
+        "name": "Gel\u00e9e Bleuet",
         "zones": [
             "Gelaxi\u00e8me dimension",
             "P\u00e9ninsule des Gel\u00e9es"
@@ -404,11 +404,12 @@
     },
     {
         "id": 40,
-        "name": "Gobelin",
+        "name": "Gobet",
         "zones": [
             "Campement des Bworks",
             "Campement des Gobelins",
             "Montagne basse des Craqueleurs"
+			
         ],
         "step": 2,
         "type": "monster"
@@ -465,9 +466,9 @@
     },
     {
         "id": 46,
-        "name": "Citwouille",
+        "name": "Crowneille",
         "zones": [
-            "For\u00eat mal\u00e9fique"
+            "D\u00e9solation de Sidimote"
         ],
         "step": 3,
         "type": "monster"
@@ -519,7 +520,7 @@
     },
     {
         "id": 52,
-        "name": "Chevaucheur de Karne",
+        "name": "Gob-trotteur",
         "zones": [
             "Campement des Bworks",
             "Campement des Gobelins",
@@ -1655,9 +1656,9 @@
     },
     {
         "id": 171,
-        "name": "Dragoss Prot\u00e9iforme",
+        "name": "Porsalu",
         "zones": [
-            "Repaire du Kharnozor"
+            "Territoire des Porcos"
         ],
         "step": 9,
         "type": "monster"
@@ -1673,9 +1674,12 @@
     },
     {
         "id": 173,
-        "name": "Dragmatique",
+        "name": "Chafer Draugr",
         "zones": [
-            "Antre de Corcabulia"
+            "Cimetière des Torturés",
+			"Cimetière",
+			"Cimetière des Héros", 
+			"Donjon des Squelettes"
         ],
         "step": 9,
         "type": "monster"
@@ -1772,9 +1776,11 @@
     },
     {
         "id": 184,
-        "name": "Shinibaru",
+        "name": "Félygiène",
         "zones": [
-            "Atelier du Tanukou\u00ef San"
+            "Dents de Pierre",
+			"Village des Kanigs",
+			"Grotte de Kanigroula"
         ],
         "step": 10,
         "type": "monster"
@@ -1980,9 +1986,9 @@
     },
     {
         "id": 207,
-        "name": "Le Flib",
+        "name": "Souris Verte",
         "zones": [
-            "Arche d'Otoma\u00ef"
+            "Champs de Cania"
         ],
         "step": 11,
         "type": "monster"
@@ -2117,9 +2123,11 @@
     },
     {
         "id": 222,
-        "name": "Dragoeuf Alb\u00c2tre",
+        "name": "Panthègros",
         "zones": [
-            "\u00c9preuve de Draegnerys"
+            "Dents de Pierre", 
+			"Village des Kanigs",
+			"Grotte de Kanigroula"
         ],
         "step": 12,
         "type": "monster"
@@ -2153,9 +2161,11 @@
     },
     {
         "id": 226,
-        "name": "Oni",
+        "name": "Orfélin",
         "zones": [
-            "For\u00eat mal\u00e9fique"
+            "Dents de Pierre",
+			"Village des Kanigs",
+			"Grotte de Kanigroula"
         ],
         "step": 12,
         "type": "monster"
@@ -2190,9 +2200,10 @@
     },
     {
         "id": 230,
-        "name": "Damadrya",
+        "name": "Alhyène",
         "zones": [
-            "Bambuseraie de Damadrya"
+            "Dents de Pierre",
+			"Village des Kanigs"
         ],
         "step": 12,
         "type": "monster"
@@ -2605,9 +2616,11 @@
     },
     {
         "id": 275,
-        "name": "Robot Pousse-Pousse",
+        "name": "Kaniblou",
         "zones": [
-            "Massif de Cania"
+            "Dents de Pierre",
+			"Village des Kanigs",
+			"Grotte de Kanigroula"
         ],
         "step": 14,
         "type": "monster"
