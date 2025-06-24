@@ -766,9 +766,11 @@
     },
     {
         "id": 78,
-        "name": "Bulbiflore",
+        "name": "Larve Jaune",
         "zones": [
-            "Bambuseraie de Damadrya"
+            "Port de Madrestam",
+	    "Côte d'Asse", 
+	    "Prairies d'Astrub"
         ],
         "step": 4,
         "type": "monster"
